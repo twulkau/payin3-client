@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d310ac5-6469-49a2-ae22-6c375e7439d6" name="Default Changelist" comment="" />
+    <list default="true" id="117ee0f1-48ef-421c-9104-a70697198af3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +11,10 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
-  <component name="ProjectId" id="1grVV1IVVG0QxglD0L69MR1uu3i" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1grYMO00L5ZWEYdr2RtUiKoPVyH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,34 +30,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9d310ac5-6469-49a2-ae22-6c375e7439d6" name="Default Changelist" comment="" />
-      <created>1598872748861</created>
+      <changelist id="117ee0f1-48ef-421c-9104-a70697198af3" name="Default Changelist" comment="" />
+      <created>1598874278099</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598872748861</updated>
-      <workItem from="1598872749970" duration="967000" />
+      <updated>1598874278099</updated>
+      <workItem from="1598874279207" duration="146000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="860" y="354" key="#Test_Frameworks" timestamp="1598873701802">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="860" y="354" key="#Test_Frameworks/0.0.2560.1400@0.0.2560.1400" timestamp="1598873701802" />
-    <state x="1081" y="574" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveNamespaceDialog#" timestamp="1598872939913">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1081" y="574" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveNamespaceDialog#/0.0.2560.1400@0.0.2560.1400" timestamp="1598872939913" />
-    <state x="200" y="0" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveRelatedNamespacesDialog" timestamp="1598872939903">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="200" y="0" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveRelatedNamespacesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598872939903" />
-    <state x="881" y="283" width="1092" height="916" key="find.popup" timestamp="1598873646023">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="881" y="283" width="1092" height="916" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1598873646023" />
   </component>
 </project>
